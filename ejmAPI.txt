@@ -1,0 +1,6 @@
+https://sica.utpl.edu.ec/api/persons/?token=4g570LuKrVnHByHa&start=0&pagination=10
+
+
+DATOS PROFESOR
+
+https://sica.utpl.edu.ec/api/persons/1719649830/?token=4g570LuKrVnHByHa

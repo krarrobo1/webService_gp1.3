@@ -1,0 +1,90 @@
+/*!
+ * Start Bootstrap - Heroic Features (https://startbootstrap.com/template-overviews/heroic-features)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-heroic-features/blob/master/LICENSE)
+ */
+
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+.card {
+  height: 100%;
+}
+.cabecera{
+  background-image: url(../imgs/fondoCabecera.jpg);
+  background-size: cover;
+  color: #ffffff;
+}
+.cabecera-1{
+  background-image: url(../imgs/pexels-photo-1068523.jpeg);
+  background-size: cover;
+  color: #ffffff;
+
+}
+.cabecera-2{
+  background-image: url(../imgs/img4.jpeg);
+  background-size: cover;
+  color: #000000;
+}
+.cabecera-3{
+  background-image: url(../imgs/img1.jpeg);
+  background-size: cover;
+  color: #ffffff;
+
+}
+.cabecera-4{
+  background-image: url(../imgs/img3.jpeg);
+  background-size: cover;
+  color: #ffffff;
+
+}
+.imggrupo{
+  width: 100%;
+  max-width: 500px;
+  max-height: 350px;
+  padding: 1em;
+}
+.cartas{
+  width: 100%;
+  max-width: 500px;
+  max-height: 325px;
+  
+
+}
+.filt{
+  margin: 20px 10px 50px 10px;
+  background-color: gray;
+  
+
+}
+.filt:hover{
+  background-color: black;
+}
+a{
+  color: black;
+}
+#loading_indicator{
+  -moz-force-broken-image-icon: unset;
+}
+
+.group{
+  padding: 1em;
+  color: white;
+  border-color: black;
+  border-style: solid ;
+  text-align: justify;
+  margin: 20px 0 20px 0;
+}
+.group:hover{
+  background-color: #000000;
+  border-color: rgb(35, 49, 54);
+  border-style: solid ;
+
+}
